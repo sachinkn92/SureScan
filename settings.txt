@@ -1,0 +1,4 @@
+root: C:\Users\Administrator\Downloads\FraudBlock-main\FraudBlock-main 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
