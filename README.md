@@ -1,6 +1,6 @@
 # SureScan - Product Authentication Platform
 
-![SureScan Logo]([https://via.placeholder.com/150x150.png?text=SureScan](https://lh3.googleusercontent.com/gg-dl/AJfQ9KTvWGG94O4VzkxRJkbmz6kshfHFRliGNo0VzTRPOZPQyGoHHEbGe-ns6_JSd2YdP6RgO6Ofv-SXdbuIis8gDD1sC04SgzHDhNt_WPjnbG99cD-tqwgq7VIZT7Kf6N09eIznwnAwokn3POE_o78QCTdvP3Zou6Mr8zQ91XoVJU97X32qrw=s1024)) <!-- Replace with your logo -->
+![SureScan Logo](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e31f20b8-a239-44c9-8727-ee5973509938" />) <!-- Replace with your logo -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
