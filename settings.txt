@@ -19,3 +19,23 @@ Monitoring, troubleshooting, and optimizing cloud-native workloads
 Grateful for the support from everyone who helped along this journey. Looking forward to applying these skills to build scalable, secure, and reliable cloud solutions.
 
 #Oracle #OCI #DevOps #CloudComputing #Certification #ContinuousLearning
+
+
+
+I’m excited to share that I’ve officially earned the Oracle Cloud Infrastructure 2025 Certified DevOps Professional credential.
+
+LinkedIn post text
+Thrilled to share that I’m now an Oracle Certified Professional – Oracle Cloud Infrastructure 2025 Certified DevOps Professional.
+
+This certification deepened my skills in:
+
+Designing and automating CI/CD pipelines on OCI
+
+Implementing Infrastructure as Code and DevSecOps practices
+
+Monitoring, troubleshooting, and optimizing cloud-native workloads
+
+Grateful for the support from everyone who helped along this journey. Looking forward to applying these skills to build scalable, secure, and reliable cloud solutions.
+
+#Oracle #OCI #DevOps #CloudComputing #Certification #ContinuousLearning
+
